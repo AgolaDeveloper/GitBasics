@@ -1,0 +1,15 @@
+*{
+    padding: 20px;
+    margin: 20px;
+}
+
+body{
+    background-color: aliceblue;
+
+}
+
+#d1{
+    background-color: antiquewhite;
+    border-left: 2px solid black;
+    color: lightgreen;
+}
