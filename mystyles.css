@@ -4,12 +4,24 @@
 }
 
 body{
-    background-color: aliceblue;
+    background-color: gainsboro;
+    
 
 }
 
 #d1{
-    background-color: antiquewhite;
-    border-left: 2px solid black;
-    color: lightgreen;
+    background-color: whitesmoke;
+    border-left: 6px solid black;
+    color: goldenrod
+}
+
+h1{
+    text-transform: capitalize;
+    text-decoration: line-through;
+    text-align: center;
+    color: yellowgreen;
+}
+
+a{
+    text-decoration: none;
 }
